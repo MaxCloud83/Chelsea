@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/Chelsea.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
