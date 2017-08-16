@@ -61,3 +61,5 @@ typings/
 .idea/inspectionProfiles/
 .idea/modules.xml
 .idea/workspace.xml
+.DS_Store
+package-lock.json
